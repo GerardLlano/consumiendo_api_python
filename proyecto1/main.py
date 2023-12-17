@@ -20,6 +20,8 @@ def llamada():
 if __name__ == "__main__":
     llamada()
 
+    
+
 
 """
 Esta es la documentación del proyecto:
@@ -28,8 +30,8 @@ Esta es la documentación del proyecto:
 1-Realice un entorno virtual: python3 -m install venv venv
 2-Active el entorno virtual: source venv/bin/activate
 3-Cree un folder llamado [proyecto1 con el archivo main.py dentro de él]
-  dentro de la carpeta venv
-  -instalé requests: pip install requests
-  -instalé flake8: pip install flake8
+dentro de la carpeta venv
+-instalé requests: pip install requests
+-instalé flake8: pip install flake8
 
 """
